@@ -6,7 +6,7 @@
 
 export const profile = {
   name: "Aishwarya A S",
-  shortName: "Aishwarya",
+  shortName: "Aishwarya A S",
   role: "Computer Science Student & Full-Stack Developer",
   tagline:
     "Exploring full stack web development by building one project at a time.",

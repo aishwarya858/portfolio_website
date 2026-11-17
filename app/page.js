@@ -15,7 +15,9 @@ const highlights = [
 
 export default function Home() {
   const featured = projects.filter((p) => p.featured);
-  const initials = profile.name.split(" ").map((w) => w[0]).slice(0, 2).join("");
+  // First and last initials, e.g. "Aishwarya A S" → "AS".
+  const words = profile.name.trim().split(/\s+/);
+  const initials = (words[0][0] + (words.length > 1 ? words[words.length - 1][0] : "")).toUpperCase();
 
   return (
     <>
