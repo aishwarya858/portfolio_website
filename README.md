@@ -4,7 +4,7 @@ A responsive, multi-page portfolio built with **Next.js (App Router)**, **React*
 
 ## Features
 
-- **6 pages**: Home, About, Projects, Skills, Achievements, Contact (plus a custom 404)
+- **6 pages**: Home, About, Projects, Skills, Achievements, Contact 
 - **Responsive** layouts for mobile, tablet, and desktop, with a collapsible mobile menu
 - **Light / dark theme** toggle. It follows the system setting on the first visit, remembers the visitor's choice, and avoids a flash of the wrong theme
 - **Reusable components**: `Navbar`, `Footer`, `Button`, `ProjectCard`, `PageHeader`, `SectionHeading`, `SocialLinks`, `Reveal`
@@ -14,6 +14,7 @@ A responsive, multi-page portfolio built with **Next.js (App Router)**, **React*
 
 ## Getting started
 
-npm install
-npm run dev      
+1. npm install
+2. npm run dev
+     
 
