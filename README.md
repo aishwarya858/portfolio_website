@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A responsive, multi-page portfolio built with **Next.js (App Router)**, **React**, plain **CSS**, and **Lucide React** icons. 
+A responsive, multi-page portfolio built with **Next.js (App Router)**, **React**, Tailwind **CSS**, and **Lucide React** icons. 
 
 
 ## Getting started
